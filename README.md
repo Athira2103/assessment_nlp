@@ -8,8 +8,14 @@ The Project entails utilising ML and NLP techniques to extract relevant informat
 The relevant details to be extracted include:
 
 Degree type (undergraduate/postgraduate)
+
 Application deadline
+
 Duration of the degree
+
 Admission eligibility/entry requirements
+
 Overseas student fees
+
 Brief degree description
+
